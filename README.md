@@ -71,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # swim-app
 
 This app is to be able to access swim workouts
+Objective
+- add and delete workouts from your profile
