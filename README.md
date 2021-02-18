@@ -74,3 +74,4 @@ This app is to be able to access swim workouts
 Objective
 - add and delete workouts from your profile
 - create new users
+- filter by duration and length
