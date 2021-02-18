@@ -75,3 +75,4 @@ Objective
 - add and delete workouts from your profile
 - create new users
 - filter by duration and length
+- try to make mobile and use redux
