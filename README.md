@@ -79,4 +79,4 @@ Objective
 - use semantic UI
 - use sql lite
 - use token
-- jljkj
+- jl
