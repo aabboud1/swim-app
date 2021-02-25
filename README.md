@@ -78,3 +78,4 @@ Objective
 - try to make mobile and use redux
 - use semantic UI
 - use sql lite
+- use token
