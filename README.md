@@ -77,3 +77,4 @@ Objective
 - filter by duration and length
 - try to make mobile and use redux
 - use semantic UI
+- use sql lite
